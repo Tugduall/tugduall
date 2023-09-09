@@ -28,7 +28,7 @@ I'm 27 years old from France
 <br>
 🔭 I’m working as full stack developer at <a href="https://dice-engineering.com/" target="_blank">D-ICE</a>
 <br>
-🔭 I’m currently working on <a href="https://ind3x.app/">IND3X</a>
+🔭 I’m currently working on <a href="https://ind3x.app/" target="_blank">IND3X</a>
 <br>
 👯 I’m looking to collaborate on innovante project in <b>IA</b> and <b>Web3</b>
 <br>
