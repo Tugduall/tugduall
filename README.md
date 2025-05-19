@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style="border-radius: 100%;">
   <img height="150" src="https://avatars.githubusercontent.com/u/23258388"  />
 </div>
 
