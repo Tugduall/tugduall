@@ -19,7 +19,7 @@ With 8+ years of experience in web and mobile development, I specialize in build
 **Frontend:** Vue.js, React, Tailwind CSS, Vite  
 **Mobile:** React Native  
 **Backend:** Express, Firebase, Supabase, MongoDB, PostgreSQL  
-**DevOps:** Docker, CI/CD, Vercel, Firebase, AWS, Google Cloud
+**DevOps:** Docker, CI/CD, Vercel, Firebase, AWS, Google Cloud  
 **Tools:** Notion, GitHub Actions, OpenAI API, Zapier
 
 ## 📬 Let's Work Together
