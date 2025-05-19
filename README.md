@@ -2,7 +2,7 @@
   <img height="150" src="https://avatars.githubusercontent.com/u/23258388"  />
 </div>
 
-# 👋 Hi, I'm LaunchLayer — Full-Stack & Mobile Developer
+# 👋 Hi, I'm Tugdual — Full-Stack & Mobile Developer
 
 I help startups and businesses turn their ideas into scalable, user-focused applications.  
 With 8+ years of experience in web and mobile development, I specialize in building SaaS platforms, mobile apps, and smart automations — fast.
@@ -17,9 +17,9 @@ With 8+ years of experience in web and mobile development, I specialize in build
 ## 🛠 Tech Stack
 **Languages:** TypeScript, JavaScript, Node.js  
 **Frontend:** Vue.js, React, Tailwind CSS, Vite  
-**Mobile:** React Native, Capacitor  
-**Backend:** Express, Firebase, Supabase, MongoDB  
-**DevOps:** Docker, CI/CD, Vercel, Railway  
+**Mobile:** React Native  
+**Backend:** Express, Firebase, Supabase, MongoDB, PostgreSQL
+**DevOps:** Docker, CI/CD, Vercel, Firebase, AWS, Google Cloud
 **Tools:** Notion, GitHub Actions, OpenAI API, Zapier
 
 ## 📬 Let's Work Together
